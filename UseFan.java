@@ -2,6 +2,7 @@ package for5;
 
 public class UseFan {
 	public static void main(String[] args) {
+		System.out.println("This is fan class");
 		Fan fan1=new Fan();
 		fan1.brand="Usha";
 		fan1.price=2500;
